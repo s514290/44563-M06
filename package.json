@@ -8,10 +8,10 @@
         "socket.io": "latest"
     },
     "author": "Denise Case",
-    "homepage": "https://bitbucket.org/professorcase/m06",
+    "homepage": "https://github.com/s514290/44563-M06",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/professorcase/m06"
+        "url": "https://github.com/s514290/44563-M06"
     },
      "license": "Apache-2.0"
 }
